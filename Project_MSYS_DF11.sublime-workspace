@@ -27,6 +27,16 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "git_PULL.BAT",
+			"file_size": 5326,
+			"file_write_time": 134386448031057417,
+			"settings":
+			{
+				"buffer_size": 5188,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -294,6 +304,38 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "git_PULL.BAT",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
