@@ -1,9 +1,11 @@
 //ATTENZIONE AGLI SPAZI DI FINE RIGA non ci devono essere altrimenti non salva
 //questo è il secondo esempio con path e file liberi senza .\ e sembra che funziona
 //............................................................................//
+.git\
 .gitattributes
 .gitignore
 AA__________________________________________________________________________AA.txt
+EXE\
 git_CANCELLA_TUTTI_I_DATI_IN_GITHUB.BAT
 git_COMMIT.BAT
 git_CREA_SALVATAGGIO.BAT
@@ -16,12 +18,16 @@ git_PUSH.BAT
 git_RICOSTRUISCI_GITHUB.BAT
 git_STATUS.BAT
 git_STATUS+PULL+ADD+COMMIT+PUSH.BAT
+MDB\
+MSYS_DF11_ANALISI.MD
+MSYS_DF11_ANALISI_LINK.MD
 MSYS_N02________________________________________________________________MSYS.txt
 Project_MSYS_DF11.sublime-project
 Project_MSYS_DF11.sublime-workspace
+README.md
 README_CARTELLE_MSYS.md
 README_CLASSI_PROGETTO.MD
-README_MSYS_DF00_BASE.md
+README_DF11_COD_PROGETTO.MD
 ZIP_7ZIP_________________________________________________________________ZZ.txt
 ZIP_7ZIP_INCREMENTALE_{CRIPTA+DECODIFICA_INTERNO}.BAT
 ZIP_7ZIP_INCREMENTALE_FILE_LOG.TXT
